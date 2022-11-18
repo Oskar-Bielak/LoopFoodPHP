@@ -37,6 +37,18 @@ optimizing the application layer so that people with a weak Internet (the size o
 <li> Html5 + CSS + Bootstrap + JavaScript + Fontello - web application interface (page layout based on div). </li>
 <li> Xamp - Database (MySQL) </li>
    </p>
+   
+<h4> Use Case Diagram </h4>
+<p align="center">
+<img src="/img/schemat uzycia.jpg" alt=" Use Case Diagram "/>
+</p>
+
+<h4> Diagram ERD </h4>
+<p align="center">
+<img src="/img/ERD.jpg" alt=" Diagram ERD "/>
+</p>
+
+   
 <h1 align="center">  </h1>
 <p align="center"><img src="https://flagcdn.com/80x60/pl.png"/></p>
 <h3>Loop Food - aplikacja webowa/desktopowa do zamawiania jedzenia (PHP, MySQL)</h3>
@@ -77,4 +89,12 @@ optymalizowanie warstwy aplikacji by osoby ze słabym Internetem (wielkość pli
 <li>Xamp - Baza danych(MySQL)</li>
   </p>
   
-  
+<h4> Schemat przypadków użycia </h4>
+<p align="center">
+<img src="/img/schemat uzycia.jpg" alt=" Use Case Diagram "/>
+</p>
+
+<h4> Diagram ERD </h4>
+<p align="center">
+<img src="/img/ERD.jpg" alt=" Diagram ERD "/>
+</p>
