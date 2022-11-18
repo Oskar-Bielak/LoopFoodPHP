@@ -1,5 +1,5 @@
 <p align="center"><img src="https://flagcdn.com/80x60/gb.png"/></p>
-<h3>Loop Food - web / desktop application for ordering food (PHP, MySQL) </h3>
+<h3>Loop Food - Web application for ordering food, managing restaurant dishes, managing suppliers and deliveries  (PHP, MySQL) </h3>
 <h1 align="center">  </h1>
 
 <h4>Objective of the work </h4>
@@ -51,7 +51,7 @@ optimizing the application layer so that people with a weak Internet (the size o
    
 <h1 align="center">  </h1>
 <p align="center"><img src="https://flagcdn.com/80x60/pl.png"/></p>
-<h3>Loop Food - aplikacja webowa/desktopowa do zamawiania jedzenia (PHP, MySQL)</h3>
+<h3>Loop Food - Aplikacja webowa do zamawiania jedzenia, zarzadzania restauracjami potrawami, zarządzanie dostawcami i dostawami (PHP, MySQL)</h3>
 <h1 align="center">  </h1>
 <h4>Cel</h4>
 <p>Aplikacja została stworzona by ułatwić dostarczenie jedzenia z restauracji do klientów.</p>
