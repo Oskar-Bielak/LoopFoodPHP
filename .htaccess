@@ -1,0 +1,15 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule zamow-jedzenie index.php
+RewriteRule kontakt-zamawianie kontakt.html
+RewriteRule aplikacja-jedzienie login.php
+RewriteRule promocje-jedzienie-wazne promocje.html
+RewriteRule regulamin-strony regulamin.html
+RewriteRule kontrakt-restauracja wspolpraca.html
+RewriteRule dolacz-do-nas rejestracja.php
+RewriteRule przypomnij zapomnialem.php

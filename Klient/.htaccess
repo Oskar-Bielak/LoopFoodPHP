@@ -1,0 +1,12 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule panel-klient index.php
+RewriteRule zamow restauracja.php
+RewriteRule historia historia.php
+RewriteRule zmiany zmiany.php
+RewriteRule platnosc zaplac.php

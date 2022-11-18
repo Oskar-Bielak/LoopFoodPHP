@@ -1,0 +1,24 @@
+
+.icon-mail:before { content: '\e800'; } /* '' */
+.icon-user:before { content: '\e801'; } /* '' */
+.icon-fast-fw:before { content: '\e802'; } /* '' */
+.icon-compass:before { content: '\e803'; } /* '' */
+.icon-direction:before { content: '\e804'; } /* '' */
+.icon-briefcase:before { content: '\e805'; } /* '' */
+.icon-home:before { content: '\e806'; } /* '' */
+.icon-phone-squared:before { content: '\f098'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-money:before { content: '\f0d6'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
+.icon-doc-text:before { content: '\f0f6'; } /* '' */
+.icon-desktop:before { content: '\f108'; } /* '' */
+.icon-mobile:before { content: '\f10b'; } /* '' */
+.icon-angle-circled-left:before { content: '\f137'; } /* '' */
+.icon-angle-circled-right:before { content: '\f138'; } /* '' */
+.icon-thumbs-up-alt:before { content: '\f164'; } /* '' */
+.icon-thumbs-down-alt:before { content: '\f165'; } /* '' */
+.icon-youtube:before { content: '\f167'; } /* '' */
+.icon-graduation-cap:before { content: '\f19d'; } /* '' */
+.icon-handshake-o:before { content: '\f2b5'; } /* '' */
+.icon-gplus:before { content: '\f30f'; } /* '' */

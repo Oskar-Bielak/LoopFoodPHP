@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        
+
+        <title>Loop-Food</title>
+        <meta name="description" content="Zajmujemy sie dostawa jedzenia." />
+        <meta name="keywords" content="dostawa do domu, jedzenie na wynos, aplikacja do jedzenia"/>
+        
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="shortcut icon" href="img/logo.png">
+        <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css" type="text/css" />
+        <link rel="stylesheet" href="css/fontello.css" type="text/css" />
+</head>
+
+<body>
+<div class="col-12 conteiner">
+
+    <div class="logo"><a href="zamow-jedzenie"><img src="img/logo.png" style="height: 40%; width: 40%; margin-left: 30px;" alt="Loop-Food"/></a></div>
+
+    <div class="row">
+        <div class="col-5 navbar">
+        </div>
+        <div class="col-7 navbar">
+            <div class="option"><a href="promocje-jedzienie-wazne"><i class="demo-icon icon-money"></i> Promocje</a></div>
+            <div class="option"><a href="kontrakt-restauracja"><i class="demo-icon icon-handshake-o"></i> Współpraca</a></div>
+            <div class="option"><a href="regulamin-strony"><i class="demo-icon icon-doc-text"></i> Regulamin</a></div>
+            <div class="option"><a href="kontakt-zamawianie"><i class="demo-icon icon-mail"></i> Kontakt</a></div>
+            <div class="option"><a href="aplikacja-jedzienie"><i class="demo-icon icon-user"></i> Zaloguj się</a></div>
+        </div>
+    </div>
+    <h3>Aktualności:</h3>
+    <br />
+    <div class="row artykul">
+        <div class="col-md-6 obraz">
+            <img src="img/Artykul.jpg" style="width: 100%; height: 100%;" alt="Loop-Food" /> 
+        </div>
+        <div class="col-md-6 tekst">
+            <h2>Super promocja na kawę !! </h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ultrices, mauris nec placerat pharetra, quam mi tincidunt dui, quis condimentum mi tortor at diam. Aliquam lacinia arcu eget ante varius tincidunt. Nunc pharetra diam vitae pretium porta. Nulla suscipit semper dolor, vitae fermentum urna aliquet sodales. Nunc ultricies ligula vel pellentesque iaculis. Sed lacinia lorem non ex bibendum, vel aliquet sem tempus. Pellentesque non rutrum orci. Nunc ac dolor mi. Praesent tincidunt risus placerat, rhoncus arcu a, sodales dolor. Praesent commodo sed lacus ut maximus. Mauris sit amet ipsum dictum, tincidunt eros quis, fringilla ligula. Cras neque enim, commodo at condimentum eget, porttitor vitae erat. Sed pharetra, urna id ornare fermentum, ante nibh pulvinar nulla, eu tincidunt augue eros malesuada enim. Praesent imperdiet dolor ac odio ornare, ac interdum enim condimentum. Pellentesque tristique porta suscipit. Curabitur ac libero elementum, porttitor est et, dictum enim.</p>
+            <p>In ex eros, malesuada at nunc at, convallis lacinia nibh. Cras vehicula vestibulum faucibus. Sed imperdiet dui pretium cursus maximus. Cras tincidunt augue nec libero imperdiet tristique. Morbi at lobortis magna, non scelerisque mi. Nulla cursus bibendum dolor, quis pharetra ipsum tempus eget. Vestibulum et semper metus. Praesent tempor, nibh id tristique dapibus, odio erat ultrices sem, luctus dignissim orci enim non metus. Nulla eu iaculis nisl. Duis vestibulum nec dui sed convallis. In turpis turpis, aliquet ut semper sed, interdum sed massa. Nulla vitae ante dolor. Quisque vel commodo leo.</p>
+            <div class="button"> <p> Przeczytaj wiecej... </p></div>
+        </div>
+    </div>
+
+
+    <div class="row artykul">
+        <div class="col-md-6 tekst">
+            <h2>Nowa aplikacja na smartfona.</h2>
+            <p>Pobierz aplikację mobilną Loopfood.pl i zamów Twoje ulubione jedzenie z dostawą szybko i wygodnie przez smartfona! Odkryj restauracje w Twojej okolicy, wybierz danie i ciesz się smakiem ulubionych potraw gdziekolwiek jesteś!</p>
+            <p>In ex eros, malesuada at nunc at, convallis lacinia nibh. Cras vehicula vestibulum faucibus. Sed imperdiet dui pretium cursus maximus. Cras tincidunt augue nec libero imperdiet tristique. Morbi at lobortis magna, non scelerisque mi. Nulla cursus bibendum dolor, quis pharetra ipsum tempus eget. Vestibulum et semper metus. Praesent tempor, nibh id tristique dapibus, odio erat ultrices sem, luctus dignissim orci enim non metus. Nulla eu iaculis nisl. Duis vestibulum nec dui sed convallis. In turpis turpis, aliquet ut semper sed, interdum sed massa. Nulla vitae ante dolor. Quisque vel commodo leo.</p>
+            <div class="button" > <p> Przeczytaj wiecej... </p></div>
+        </div>
+
+        <div class="col-md-6 obraz">
+            <img src="img/Grafa1.jpg" style="width: 100%; height: 100%;" alt="Loop-Food"/> 
+        </div>
+    </div>
+<div class="col-12 footer" style="text-align: center;">
+  <p>Loop-Food &copy Wszelkie prawa zastrzeżone.<p>
+</div>
+</div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
